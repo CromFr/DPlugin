@@ -1,0 +1,7 @@
+# Binaries
+*.o
+*.so
+dplugin
+
+.dub/
+
